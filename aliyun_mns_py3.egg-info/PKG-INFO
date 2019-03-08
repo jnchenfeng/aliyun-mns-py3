@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: aliyun-mns-py3
+Version: 1.0.0
+Summary: aliyun mns python3
+Home-page: https://github.com/jnchenfeng/aliyun-mns-py3
+Author: ChenFeng
+Author-email: jnchenfeng123@163.com
+License: MIT Licence
+Description: aliyun mns for python3
+Keywords: pip,aliyun,mns
+Platform: any
